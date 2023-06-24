@@ -126,8 +126,10 @@ button:hover {
     .logo {
         width: 120px;
     }
+}
 
+@media (max-width: 280px) {
     .content h1 {
-        font-size: 35px;
+        font-size: 25px;
     }
 }
