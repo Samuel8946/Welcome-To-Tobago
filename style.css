@@ -108,3 +108,18 @@ button:hover span {
 button:hover {
     border: none;
 }
+
+.menue {
+    display: none;
+}
+
+@media (max-width: 1250px) {
+
+    .menue {
+        display: inline-block;
+    }
+
+    .navbar ul li {
+        display: none;
+    }
+}
