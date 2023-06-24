@@ -128,7 +128,7 @@ button:hover {
     }
 }
 
-@media (max-width: 280px) {
+@media (max-width: 412px) {
         .content h1 {
         font-size: 25px;
     }
